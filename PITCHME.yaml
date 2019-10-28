@@ -7,7 +7,7 @@
 #
 theme : template
 
-theme-background : [ "#cacaca" ]
+theme-background : [ "#FF5733" ]
 theme-headline   : [ "Raleway", "#000000", "none" ]
 theme-byline     : [ "Raleway", "#111111", "none" ]
 theme-text       : [ "Ubuntu", "#1C1C1C", "none" ]
