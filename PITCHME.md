@@ -4,7 +4,7 @@
 
 ## Add Some Slide Candy
 
-![IMAGE](assets/img/20190215 wouter tekening web.jpg)
+![IMAGE](assets/img/logo.png)
 
 ---?color=linear-gradient(180deg, white 75%, black 25%)
 @title[Customize Slide Layout]
