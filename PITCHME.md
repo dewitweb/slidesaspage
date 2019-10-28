@@ -7,9 +7,14 @@
 ![IMAGE](assets/img/drawingcutout1.png)
 
 ---?color=linear-gradient(180deg, white 75%, black 25%)
+
 @title[Customize Slide Layout]
 
 @snap[west span-50]
+
+---
+
+
 ## Customize the Layout
 @snapend
 
@@ -25,6 +30,8 @@ Snap Layouts let you create custom slide designs directly within your markdown.
 @title[Add A Little Imagination]
 
 @snap[north-west h4-white]
+
+
 #### And start presenting...
 @snapend
 
