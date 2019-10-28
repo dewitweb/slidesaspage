@@ -1,8 +1,4 @@
-# Let's Get Started
-
----
-
-## Add Some Slide Candy
+## Title Page
 
 ![IMAGE](assets/img/drawingcutout1.png)
 
@@ -12,7 +8,6 @@
 
 @snap[west span-50]
 
----
 
 
 ## Customize the Layout
