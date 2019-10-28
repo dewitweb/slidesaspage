@@ -1,4 +1,4 @@
-## Title Page
+## Wouter de Wit
 
 ![IMAGE](assets/img/drawingcutout1.png)
 
