@@ -52,8 +52,8 @@ footnote : "GitPitch - The Fastest Way From Idea To Presentation"
 # Doc: https://gitpitch.com/docs/settings/published
 #
 
-#published : true
-stealth : 01234
+published : true
+#stealth : 01234
 
 #
 # Twitter Card Settings [Pro Only]
